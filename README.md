@@ -1,7 +1,5 @@
 # blink-detection-cnn
 
-# anomaly-detection-spark-streaming
-
 ## English
 This project is included in the Master in Research of the [UIMP](http://www.uimp.es/), in the subject 'Deep Learning'.
 
